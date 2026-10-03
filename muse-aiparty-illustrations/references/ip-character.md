@@ -43,9 +43,10 @@ Pai, a sweet doll girl IP character: round face, big brown eyes, blush and freck
 
 ## 基准图
 
-- `character/front-fullbody.jpg`：正脸微笑端正版（脸型五官基准）。
-- `character/side-glance-fullbody.jpg`：斜瞟酷表情版（表情与气质基准）。
-- 生图管线支持参考图时，两张都要附上；注意基准图是精致版，仅取脸、发饰、服装等设计元素，画风一律按手绘线稿走。
+- `character/front-fullbody.jpg`：全身正脸版（服装、比例、全身设计基准）。
+- `character/face-closeup.jpg`：脸部特写（脸型五官锁定锚点）。
+- 铁律：凡生成 / 改图涉及小派，出图前必须对照脸部特写验脸，不许换脸；"像不像"永远用户说了算。
+- 生图管线支持参考图时，两张都要附上；注意基准图仅取设计元素（手绘版按线稿走）。
 
 ## 手绘版表现规范（正文配图用）
 

@@ -2,7 +2,7 @@
 
 每张图单独生成。根据正文内容替换变量，不要把多张图拼在一起。
 
-CHARACTER LOCK（手绘版）每次原样复用，一字不改。管线支持参考图时，附上 `references/character/` 的两张基准图作为设计参考（注意：基准图是精致版，仅取脸、发饰、服装等设计元素，画风一律按手绘线稿走）。
+CHARACTER LOCK（手绘版）每次原样复用，一字不改。管线支持参考图时，附上 `references/character/` 的两张基准图（全身＋脸部特写）作为设计参考，其中脸部特写为验脸锚点；注意基准图仅取设计元素，画风一律按手绘线稿走。
 
 ```text
 Generate one standalone 16:9 horizontal Chinese article illustration: black hand-drawn line art on pure white background.

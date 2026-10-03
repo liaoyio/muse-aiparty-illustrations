@@ -67,7 +67,7 @@ description: 生成小派（Pai）IP 风格的中文正文配图。用于用户�
 
 ### 4. 检查与迭代
 
-生成后对照 `references/qa-checklist.md` 检查：先验脸（对照基准图），再验动作，最后验结构。
+生成后对照 `references/qa-checklist.md` 检查：先验脸（对照 `references/character/face-closeup.jpg` 锁定锚点，不许换脸），再验动作，最后验结构。
 
 出现形象走样优先用"修正形象走样"编辑提示局部修；修不好再重生成。
 

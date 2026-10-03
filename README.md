@@ -196,7 +196,7 @@ Use $muse-aiparty-illustrations 这张图里小派的左侧发饰画错了，
     │   └── archive-xiaohei/     # 旧小黑示例归档
     └── references/
         ├── ip-character.md      # 小派角色圣经 + CHARACTER LOCK
-        ├── character/           # 基准图（正脸端正版 / 斜瞟酷表情版）
+        ├── character/           # 基准图（全身正脸版 / 脸部特写验脸锚点）
         ├── style-dna.md
         ├── composition-patterns.md
         ├── prompt-template.md
