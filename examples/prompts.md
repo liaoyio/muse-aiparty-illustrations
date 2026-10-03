@@ -12,7 +12,7 @@ Use $muse-aiparty-illustrations 先不要生图。
 - 图的主题
 - 核心意思
 - 结构类型
-- 小派在图里做什么（具体动作）
+- 小星在图里做什么（具体动作）
 - 背景选哪种（浅粉 / 米白 / 雾蓝）
 - 建议中文标注词
 
@@ -22,7 +22,7 @@ Use $muse-aiparty-illustrations 先不要生图。
 ## 文章正文配图
 
 ```text
-Use $muse-aiparty-illustrations 把下面这篇文章生成 4 张小派正文配图。
+Use $muse-aiparty-illustrations 把下面这篇文章生成 4 张小星正文配图。
 要求：16:9 横版、纯白背景、黑色手绘线稿、少量红橙蓝中文手写批注。
 每张图只讲一个核心结构，不要做 PPT 信息图。
 
@@ -46,7 +46,7 @@ Use $muse-aiparty-illustrations 为这个观点生成一张 16:9 正文配图：
 
 信任不是喊出来的，而是一块证据一块证据铺过去。
 
-画面要怪诞但清爽，小小的小派必须亲手执行核心动作。
+画面要怪诞但清爽，小小的小星必须亲手执行核心动作。
 中文标注最多 5 个，短一点。
 ```
 
@@ -55,29 +55,29 @@ Use $muse-aiparty-illustrations 为这个观点生成一张 16:9 正文配图：
 ```text
 Use $muse-aiparty-illustrations 为"把一条原始素材加工成流量、信任、转化三种内容"生成一张图。
 不要画正式流程图，不要复刻旧案例。
-请重新发明一个怪诞但成立的隐喻，善用"小小的人 vs 巨型物件"的反差，让小派亲手执行核心动作。
+请重新发明一个怪诞但成立的隐喻，善用"小小的人 vs 巨型物件"的反差，让小星亲手执行核心动作。
 ```
 
 ## 改图：修正形象走样
 
 ```text
-Use $muse-aiparty-illustrations 这张图里小派的左侧发饰画错了，
+Use $muse-aiparty-illustrations 这张图里小星的星星发夹画错了，
 请对照基准图局部修正，其他内容保持不变。
 不要新增任何文字或物件。
 ```
 
-## 改图：增强小派参与感
+## 改图：增强小星参与感
 
 ```text
-Use $muse-aiparty-illustrations 这张图方向对，但小派有点像装饰。
-请保持核心意思不变，重生成一版：让小派亲手执行核心动作。
-画面保持甜美精致，CHARACTER LOCK 原样复用。
+Use $muse-aiparty-illustrations 这张图方向对，但小星有点像装饰。
+请保持核心意思不变，重生成一版：让小星亲手执行核心动作。
+画面保持手绘白底，CHARACTER LOCK 原样复用。
 ```
 
 ## 生成一组风格样片
 
 ```text
-Use $muse-aiparty-illustrations 输出 5 个不同主题的小派正文配图效果。
+Use $muse-aiparty-illustrations 输出 5 个不同主题的小星正文配图效果。
 主题分别覆盖：信息过载、产品验证、内容复利、一人公司、信任建立。
 每张单独生成，不要拼成一张。记得附基准图（仅取设计元素）并复用 CHARACTER LOCK（手绘版）。
 ```
