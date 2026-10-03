@@ -11,7 +11,7 @@ CHARACTER LOCK (reuse verbatim, do not alter):
 Pai, a sweet doll girl IP character: round face, big brown eyes, blush and freckles, small blue and pink star stickers on cheeks; extremely long straight light-blonde hair with center parting; left-side hair accessory cluster: big silver star clip, pink bow, small blue clips, white bunny charm, pink stars and dangling small stars; thin silver necklace with blue star pendant; pink ribbed lace camisole with small bow; off-white high-waist shorts; white chunky knit leg warmers with yellow star embroidery; cream platform Mary Jane shoes; doll proportions, big head, slender limbs; gentle sweet expression.
 
 Visual DNA:
-Soft studio lighting, clean pastel background (light pink, cream, or mist blue), refined polished finish, generous negative space. Sparse short handwritten-style Chinese annotations in soft colors. Sweet, polished and clean, with a charming absurd contrast: a delicate doll seriously performing a strange-but-logical task. No PPT infographic look, no formal flowchart, no dark or horror mood, no cluttered background, no photorealistic UI screenshots.
+Soft studio lighting, clean pastel background (light pink, cream, or mist blue), refined polished finish, generous negative space. Pai appears SMALL in the frame (no more than ~1/3 of canvas height); use a wide shot, never a close-up portrait filling the frame. Sparse short handwritten-style Chinese annotations in soft colors. Sweet, polished and clean, with a charming absurd contrast: a delicate doll seriously performing a strange-but-logical task. No PPT infographic look, no formal flowchart, no dark or horror mood, no cluttered background, no photorealistic UI screenshots.
 
 Theme:
 {正文配图主题}
@@ -35,7 +35,7 @@ Color use:
 Pink, white and cream base matching Pai's outfit; star yellow and mist blue accents. Soft red for key warnings/results, apricot orange for main flow/paths, mist blue for secondary notes. Pastel background in light pink, cream, or mist blue chosen to fit the article's mood.
 
 Constraints:
-One image explains only one core structure. Pai must perform the core conceptual action, not decorate the scene. Keep the main subject around 40%-60% of the canvas with at least 35% quiet negative space. At most 5-8 short Chinese labels. Do not write a title in the top-left corner. Do not write the structure type on the image. Do not copy prior examples; invent a fresh visual metaphor for this specific article. Never alter Pai's locked features: face, hair color and style, left-side accessory cluster, star stickers, outfit pieces.
+One image explains only one core structure. Pai must perform the core conceptual action, not decorate the scene. Pai appears SMALL in the frame: no more than ~1/3 of the canvas height, wide shot, never a close-up filling the frame. Keep the main subject (Pai + objects) around 30%-50% of the canvas with at least 40% quiet negative space. At most 5-8 short Chinese labels. Do not write a title in the top-left corner. Do not write the structure type on the image. Do not copy prior examples; invent a fresh visual metaphor for this specific article. Never alter Pai's locked features: face, hair color and style, left-side accessory cluster, star stickers, outfit pieces.
 ```
 
 ## 图像编辑提示
